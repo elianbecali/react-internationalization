@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Internationalization
 
-I'm created this app for learning more about react internationalization. I'm used i18n library javascript to translate our app to other languages we want.
+I'm created this app for learning more about react internationalization. I'm used i18next javascript framework to translate our app to other languages we want.
 
 You can check it in the [package.json](./package.json) file.
 
